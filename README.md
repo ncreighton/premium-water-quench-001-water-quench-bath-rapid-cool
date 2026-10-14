@@ -1,0 +1,2 @@
+# premium-water-quench-001-water-quench-bath-rapid-cool
+Tired of inconsistent quench results ruining your steel? Your quench bath temperature logs are scattered across notebooks, and you can never find the right cooling curve for that specific blade steel.  This Notion template centralizes all your water quench data—temperature logs, steel specs, quench bath recipes, and cooling curves—into one organize
